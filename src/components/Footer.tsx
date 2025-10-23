@@ -18,7 +18,7 @@ const Footer = () => {
           </div>
           
           <div className="text-center md:text-right">
-            <p className="text-xs">Built with ❤️ for aspiring developers</p>
+            <p className="text-xs">Built for aspiring developers</p>
           </div>
         </div>
       </div>
